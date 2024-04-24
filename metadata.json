@@ -1,6 +1,5 @@
 {
   "name": "test",
   "symbol": "TST",
-  "description": "Description of token",
-  "image": "https://github.com/Falloutmeme1/testmeme/blob/main/Unknown.png"
+  "uri": "https://github.com/Falloutmeme1/testmeme/edit/main/token.json"
 }
