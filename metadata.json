@@ -1,5 +1,6 @@
 {
-  "name": "TOKEN_NAME",
-  "symbol": "SYM",
-  "uri": "https://github.com/Falloutmeme1/testmeme/blob/main/token.json"
+  "name": "test",
+  "symbol": "TST",
+  "description": "Description of token",
+  "image": "https://arweave.net/image-url-from-above"
 }
